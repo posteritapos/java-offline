@@ -1,0 +1,3 @@
+lib/posterita.jar 77cd789d4e14edb70aabe74403f1d4ef 317252
+lib/tools.jar fd3e0314906d55919a1276af20eb5292 7155006
+webapps/posterita.war 95ee0f9a0855f4cfb17b8e2bfd2199d3 2930435
